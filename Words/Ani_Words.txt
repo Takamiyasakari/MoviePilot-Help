@@ -92,6 +92,43 @@ Fate／Grand Order - 絕對魔獸戰線巴比倫尼亞 => 命运／冠位指定 
 笨蛋，測驗，召喚獸～祭典～ \[S00\] => 笨蛋·测验·召唤兽：祭 [S01]
 艦隊 Collection => 艦隊Collection
 魔法科高中的劣等生 追憶篇 => 魔法科高中的劣等生 {[tmdbid=60833;type=tv;s=0;e=8]}
+
+### 劇場版大合集
 \[電影\] =>
 水星領航員 ARIA The CREPUSCOLO => 水星領航員 暮色
-烏龍派出所電影版2：UFO大逆襲 龍捲風大作戰 => 乌龙派出所剧场版2：UFO大逆袭！龙卷风大作战
+烏龍派出所2：UFO大逆襲 龍捲風大作戰 => 乌龙派出所剧场版2：UFO大逆袭！龙卷风大作战 {[tmdbid=512563;type=movie]}
+夏目友人帳特別上映：喚石與可疑訪客 => 夏目友人帳 {[tmdbid=773621;type=movie]}
+怪物彈珠 THE MOVIE 路西法 絕望的黎明 => 怪物彈珠 {[tmdbid=690511;type=movie]}
+銀魂劇場 完結篇：永遠的萬事屋 => 銀魂劇場 {[tmdbid=245917;type=movie]}
+Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 => 命运／冠位指定 冠位时间神殿所罗门
+哆啦A夢 大雄的新魔界大冒險 => 哆啦A夢 大雄的新魔界大冒險 {[tmdbid=52795;type=movie]}
+名偵探柯南 EPISODE”ONE” => 名偵探柯南 {[tmdbid=573364;type=movie]}
+名偵探柯南 灰原哀物語～黑鐵的神祕列車～ => 名偵探柯南 {[tmdbid=1058906;type=movie]}
+名偵探柯南：紅之校外旅行 => 名偵探柯南 {[tmdbid=769922;type=movie]}
+名偵探柯南 緋色的不在證明 => 名偵探柯南 {[tmdbid=801293;type=movie]}
+偵探柯南：江戶川柯南失蹤事件 => 名偵探柯南 {[tmdbid=546822;type=movie]}
+名偵探柯南 總局刑警戀愛物語～ => 名偵探柯南 {[tmdbid=963806;type=movie]}
+荒野的壽飛行隊 完全 => 荒野的壽飛行隊 {[tmdbid=729067;type=movie]}
+少女與戰車 最終章 第1話 => 少女與戰車 最終章 第1話 {[tmdbid=474659;type=movie]}
+少女與戰車 最終章 第2話 => 少女與戰車 最終章 第2話 {[tmdbid=496891;type=movie]}
+工作細胞 特別上映 - 強「菌」來襲！人體腸道大騷動 => 工作细胞：细胞大作战 {[tmdbid=721686;type=movie]}
+命運 ／ 停駐之夜 UNLIMITED BLADE WORKS => 命运之夜：无限剑制 剧场版 {[tmdbid=46304;type=movie]}
+刀劍神域劇場－Progressive－陰沉薄暮的詼諧曲 => 刀剑神域进击篇：暮色黄昏 {[tmdbid=893712;type=movie]}
+刀劍神域劇場－Progressive－無星夜的詠嘆調 => 刀剑神域进击篇：无星之夜 {[tmdbid=761898;type=movie]}
+青春豬頭少不會夢到嬌憐外出妹 => 青春猪头少年不会梦到娇怜外出妹 {[tmdbid=1056803;type=movie]}
+喬望尼之島 => 乔瓦尼之岛 {[tmdbid=239367;type=movie]}
+妖獸都市 1987 => 妖獸都市 1987 {[tmdbid=21453;type=movie]}
+後空翻少年!! => 後空翻少年 {[tmdbid=112601;type=movie]}
+新次元！蠟筆小新超能力大決戰~飛吧！手卷壽司~ => 蠟筆小新超能力大決戰 {[tmdbid=1059572;type=movie]}
+Collar×Malice -deep cover- 後篇 => Collar×Malice {[tmdbid=1155647;type=movie]}
+Collar×Malice -deep cover- 前篇 => Collar×Malice {[tmdbid=1020496;type=movie]}
+ZERO-ONE Others 假面騎士滅亡迅雷 => 假面骑士灭亡迅雷 {[tmdbid=818914;type=movie]}
+佐佐木與宮野ー畢業篇 => 佐佐木与宫野：毕业篇 {[tmdbid=998731;type=movie]}
+Demon Slayer -Kimetsu no Yaiba- Mugen Train Movie => 鬼灭之刃 无限列车篇 {[tmdbid=635302;type=movie]}
+再見了，我的克拉默 First Touch => 再见了，我的克拉默 {[tmdbid=739360;type=movie]}
+火影忍者劇場3：大興奮！新月島之動物大騷動 => 火影忍者劇場3：大興奮！新月島之動物大騷動 {[tmdbid=18861;type=movie]}
+火影忍者劇場2：大激突！幻之地底遺跡 => 火影忍者劇場2：大激突！幻之地底遺跡 {[tmdbid=16910;type=movie]}
+火影忍者劇場1：大活劇！雪姬忍法帖 ！！ => 火影忍者剧场版：大活剧！雪姬忍法帖 {[tmdbid=16907;type=movie]}
+小鳥遊六花・改 劇場 中二病也想談戀愛！ => 小鳥遊六花・改 劇場 中二病也想談戀愛！{[tmdbid=214553;type=movie]}
+擅長捉弄人的高木同學 => 擅長捉弄人的高木同學 {[tmdbid=938567;type=movie]}
+艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- S00\[S00\] => 君主·埃尔梅罗二世事件簿 {[tmdbid=85368;type=tv;s=0;e=2]}
