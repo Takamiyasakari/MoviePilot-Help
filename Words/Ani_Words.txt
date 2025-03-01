@@ -32,6 +32,10 @@ S 級怪獸《貝希摩斯》被誤認成小貓 => S級怪獸《貝希摩斯》�
 五等分的新娘∬ => 五等分的新娘∬ {[tmdbid=84669;type=tv;s=2]}
 天竺鼠車車\[(\d{1,3})A\] => 天竺鼠車車[\1]
 
+### 2022-10
+燒窯的話也要馬克杯\[(\d{1,2})[A,B]\] => 如果烧陶的话也做个马克杯吧 S01E\1
+燒窯的話也要馬克杯 第二季\[(\d{1,2})[A,B]\] => 如果烧陶的话也做个马克杯吧 S02E\1 && S02E <> 1080P >> EP-12
+
 ### 2022-01
 東京 24 區 => 東京24區
 \[年齡限制版\] =>
@@ -43,9 +47,11 @@ S 級怪獸《貝希摩斯》被誤認成小貓 => S級怪獸《貝希摩斯》�
 史上最強大魔王轉生為村民 A => 史上最強大魔王轉生為村民A
 成為女主角！~被討厭的女主角和秘密的工作~ => 身为女主角！~讨厌的女主角与秘密的工作~
 RPG 不動產 => RPG不動產
+小書痴的下剋上：為了成為圖書管理員不擇手段！第三季 - E26A => 爱书的下克上：为了成为图书管理员不择手段 {[tmdbid=91768;type=tv;s=0;e=3]}
+小書痴的下剋上：為了成為圖書管理員不擇手段！第三季 - E26B => 爱书的下克上：为了成为图书管理员不择手段 {[tmdbid=91768;type=tv;s=0;e=4]}
 
 ### 2022-07
-Dr.STONE 新石紀 (龍水) - S00 => Dr.STONE 新石紀 (龍水) - S00E02
+Dr.STONE 新石紀 \(龍水\) - S00 => Dr.STONE 新石紀 (龍水) - S00E02
 轉生賢者的異世界生活～ => 轉生賢者的異世界生活
 
 ### 2022-10
@@ -54,7 +60,7 @@ Dr.STONE 新石紀 (龍水) - S00 => Dr.STONE 新石紀 (龍水) - S00E02
 
 ### 2023-01
 弦音 -連結的一射- => 弦音 风舞高中弓道部 S02
-阿爾斯的巨獸 => 阿爾斯的巨獸
+阿爾斯的巨獸 => 阿魯斯的巨獸
 
 ### 2023-04
 Love Live！虹咲學園 學園偶像同好會 NEXT SKY - S00 => Love Live！虹咲學園 學園偶像同好會 NEXT SKY - S00E01
@@ -65,9 +71,12 @@ Fate／strange Fake -Whispers of Dawn- - E01 => 命运-奇异赝品 黎明低语
 殭屍 100～在成為殭屍前要做的 100 件事～ => 殭屍100～在成為殭屍前要做的100件事～
 雖然等級只有 1 級但固有技能是最強的 => 雖然等級只有1級但固有技能是最強的
 AI 電子基因 => AI電子基因
+無職轉生～到了異世界就拿出真本事 第二季 - S00 => 无职转生 ～到了异世界就拿出真本事～ {[tmdbid=94664;type=tv;s=0;e=2]}
 
 ### 2023-10
 超超超超超喜歡你的 100 個女朋友 => 超超超超超喜歡你的100個女朋友
+在地下城尋求邂逅是否搞錯了什麼 第四季 - S00 => 在地下城尋求邂逅是否搞錯了什麼 S00E04
+D4DJ Double Mix - S00 => D4DJ Double Mix - S00E01
 
 ### 2024-01
 公主殿下，「拷問」的時間到了 => 公主殿下，拷問的時間到了
@@ -95,9 +104,9 @@ Fate／Grand Order - 絕對魔獸戰線巴比倫尼亞 => 命运／冠位指定 
 
 ### 劇場版大合集
 \[電影\] =>
-水星領航員 ARIA The CREPUSCOLO => 水星領航員 暮色
-烏龍派出所2：UFO大逆襲 龍捲風大作戰 => 乌龙派出所剧场版2：UFO大逆袭！龙卷风大作战 {[tmdbid=512563;type=movie]}
-夏目友人帳特別上映：喚石與可疑訪客 => 夏目友人帳 {[tmdbid=773621;type=movie]}
+水星領航員 ARIA The CREPUSCOLO => 水星領航員 暮色 {[tmdbid=726550;type=movie]}
+烏龍派出所電影版2：UFO大逆襲 龍捲風大作戰 => 乌龙派出所剧场版2：UFO大逆袭！龙卷风大作战 {[tmdbid=512563;type=movie]}
+夏目友人帳特別上映版：喚石與可疑訪客 => 夏目友人帳 {[tmdbid=773621;type=movie]}
 怪物彈珠 THE MOVIE 路西法 絕望的黎明 => 怪物彈珠 {[tmdbid=690511;type=movie]}
 銀魂劇場 完結篇：永遠的萬事屋 => 銀魂劇場 {[tmdbid=245917;type=movie]}
 Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 => 命运／冠位指定 冠位时间神殿所罗门
@@ -111,25 +120,50 @@ Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 => 命运／冠
 荒野的壽飛行隊 完全 => 荒野的壽飛行隊 {[tmdbid=729067;type=movie]}
 少女與戰車 最終章 第1話 => 少女與戰車 最終章 第1話 {[tmdbid=474659;type=movie]}
 少女與戰車 最終章 第2話 => 少女與戰車 最終章 第2話 {[tmdbid=496891;type=movie]}
-工作細胞 特別上映 - 強「菌」來襲！人體腸道大騷動 => 工作细胞：细胞大作战 {[tmdbid=721686;type=movie]}
+工作細胞 特別上映版 - 強「菌」來襲！人體腸道大騷動 => 工作细胞：细胞大作战 {[tmdbid=721686;type=movie]}
 命運 ／ 停駐之夜 UNLIMITED BLADE WORKS => 命运之夜：无限剑制 剧场版 {[tmdbid=46304;type=movie]}
-刀劍神域劇場－Progressive－陰沉薄暮的詼諧曲 => 刀剑神域进击篇：暮色黄昏 {[tmdbid=893712;type=movie]}
-刀劍神域劇場－Progressive－無星夜的詠嘆調 => 刀剑神域进击篇：无星之夜 {[tmdbid=761898;type=movie]}
-青春豬頭少不會夢到嬌憐外出妹 => 青春猪头少年不会梦到娇怜外出妹 {[tmdbid=1056803;type=movie]}
+刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲 => 刀剑神域进击篇：暮色黄昏 {[tmdbid=893712;type=movie]}
+刀劍神域劇場版－Progressive－無星夜的詠嘆調 => 刀剑神域进击篇：无星之夜 {[tmdbid=761898;type=movie]}
+青春豬頭少年不會夢到嬌憐外出妹 - 電影 => 青春猪头少年不会梦到娇怜外出妹 {[tmdbid=1056803;type=movie]}
 喬望尼之島 => 乔瓦尼之岛 {[tmdbid=239367;type=movie]}
 妖獸都市 1987 => 妖獸都市 1987 {[tmdbid=21453;type=movie]}
 後空翻少年!! => 後空翻少年 {[tmdbid=112601;type=movie]}
-新次元！蠟筆小新超能力大決戰~飛吧！手卷壽司~ => 蠟筆小新超能力大決戰 {[tmdbid=1059572;type=movie]}
-Collar×Malice -deep cover- 後篇 => Collar×Malice {[tmdbid=1155647;type=movie]}
-Collar×Malice -deep cover- 前篇 => Collar×Malice {[tmdbid=1020496;type=movie]}
+新次元！蠟筆小新電影超能力大決戰~飛吧！手卷壽司~ \[電影\] => 蠟筆小新超能力大決戰 {[tmdbid=1059572;type=movie]}
+Collar×Malice -deep cover- 後篇 - 電影 => Collar×Malice {[tmdbid=1155647;type=movie]}
+Collar×Malice -deep cover- 前篇 - 電影 => Collar×Malice {[tmdbid=1020496;type=movie]}
 ZERO-ONE Others 假面騎士滅亡迅雷 => 假面骑士灭亡迅雷 {[tmdbid=818914;type=movie]}
 佐佐木與宮野ー畢業篇 => 佐佐木与宫野：毕业篇 {[tmdbid=998731;type=movie]}
 Demon Slayer -Kimetsu no Yaiba- Mugen Train Movie => 鬼灭之刃 无限列车篇 {[tmdbid=635302;type=movie]}
 再見了，我的克拉默 First Touch => 再见了，我的克拉默 {[tmdbid=739360;type=movie]}
-火影忍者劇場3：大興奮！新月島之動物大騷動 => 火影忍者劇場3：大興奮！新月島之動物大騷動 {[tmdbid=18861;type=movie]}
-火影忍者劇場2：大激突！幻之地底遺跡 => 火影忍者劇場2：大激突！幻之地底遺跡 {[tmdbid=16910;type=movie]}
-火影忍者劇場1：大活劇！雪姬忍法帖 ！！ => 火影忍者剧场版：大活剧！雪姬忍法帖 {[tmdbid=16907;type=movie]}
-小鳥遊六花・改 劇場 中二病也想談戀愛！ => 小鳥遊六花・改 劇場 中二病也想談戀愛！{[tmdbid=214553;type=movie]}
+火影忍者劇場版3：大興奮！新月島之動物大騷動\[電影\] => 火影忍者剧场版：大兴奋！三日月岛的动物骚动 {[tmdbid=18861;type=movie]}
+火影忍者劇場版2：大激突！幻之地底遺跡\[電影\] => 火影忍者剧场版：大激突！幻之地底遗迹 {[tmdbid=16910;type=movie]}
+火影忍者劇場版1：大活劇！雪姬忍法帖 ！！\[電影\] => 火影忍者剧场版：大活剧！雪姬忍法帖 {[tmdbid=16907;type=movie]}
+小鳥遊六花・改 劇場版 中二病也想談戀愛！ \[電影\] => 中二病也要谈恋爱！剧场版 小鸟游六花・改 {[tmdbid=214553;type=movie]}
 擅長捉弄人的高木同學 => 擅長捉弄人的高木同學 {[tmdbid=938567;type=movie]}
 電影版 搖曳露營△ - 電影 => 摇曳露营△ 剧场版 {[tmdbid=566466;type=movie]}
-艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- S00\[S00\] => 君主·埃尔梅罗二世事件簿 {[tmdbid=85368;type=tv;s=0;e=2]}
+艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- => 君主·埃尔梅罗二世事件簿 {[tmdbid=85368;type=tv;s=0;e=2]}
+神劍闖江湖 維新志士的鎮魂歌 - 電影 => 神劍闖江湖 維新志士的鎮魂歌 {[tmdbid=39977;type=movie]}
+劇場版 異世界四重奏 ～Another World～ - 電影 => 异世界四重奏：另一个世界 {[tmdbid=913612;type=movie]}
+關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - 電影 => 关于我转生变成史莱姆这档事 剧场版 红莲之绊篇 {[tmdbid=876792;type=movie]}
+扶桑花女孩之舞 - 電影 => 扶桑花女孩之舞 {[tmdbid=760765;type=movie]}
+對某飛行員的追憶 - 電影 => 对某飞行员的追忆 {[tmdbid=93013;type=movie]}
+我的英雄學院：世界英雄任務 - 電影 => 我的英雄学院：世界英雄任务 {[tmdbid=768744;type=movie]}
+銀魂劇場版 完結篇：永遠的萬事屋 - 電影 => 银魂完结篇：直到永远的万事屋 {[tmdbid=245917;type=movie]}
+Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 - - 電影 => 命运／冠位指定 冠位时间神殿所罗门 {[tmdbid=829920;type=movie]}
+哆啦A夢 新大雄的宇宙開拓史\[電影\] => 哆啦A梦：新·大雄的宇宙开拓史 {[tmdbid=95935;type=movie]}
+哆啦A夢 大雄與綠之巨人傳\[電影\] => 哆啦A梦：大雄与绿巨人传 {[tmdbid=136686;type=movie]}
+超時空甩尾 - 電影 => 红线 {[tmdbid=71883;type=movie]}
+約會大作戰 DATE A BULLET 赤黑新章：紅或白\[電影\] => 约会大作战 赤黑新章：红与白 {[tmdbid=723343;type=movie]}
+約會大作戰 DATE A BULLET 赤黑新章：虛或實\[電影\] => 约会大作战 赤黑新章：虚或实 {[tmdbid=685099;type=movie]}
+GIVEN 被贈與的未來 劇場版 - 電影 => GIVEN：被赠予的未来 剧场版 {[tmdbid=632632;type=movie]}
+GIVEN 被贈與的未來 劇場版：反面的存在 - 電影 => GIVEN：被赠予的未来 特别篇 {[tmdbid=88040;type=tv;s=0;e=1]}
+為美好的世界獻上祝福！紅傳說\[電影\] => 为美好的世界献上祝福！红传说 {[tmdbid=532067;type=movie]}
+時光沙漏 fragtime - 電影 => 时光沙漏 {[tmdbid=630027;type=movie]}
+魔兵驚天錄 噬血宿命 - 電影 => 猎天使魔女：血色命运 {[tmdbid=242546;type=movie]}
+HUMAN LOST 人間失格 - 電影 => 人间失格 {[tmdbid=593240;type=movie]}
+SPY×FAMILY 間諜家家酒 CODE： White \[電影\] => 间谍过家家 代号：白 {[tmdbid=1062807;type=movie]}
+孤獨搖滾！團結 Band LIVE-恆星- - 電影 => 孤独摇滚！纽带乐队LIVE -恒星- {[tmdbid=1152767;type=movie]}
+世界一初戀～求婚編～ - 電影 => 世界第一初恋：求婚篇 {[tmdbid=658565;type=movie]}
+魔法水果籃 -前奏曲- - 電影 => 水果篮子 -序章- {[tmdbid=896499;type=movie]}
+Fate／Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram\[電影\] => 命运／冠位指定 -神圣圆桌领域卡美洛- 前篇 漂泊的银之臂 {[tmdbid=637202;type=movie]}
+銀魂 THE FINAL - 電影 => 银魂：最终篇 {[tmdbid=732203;type=movie]}
