@@ -167,3 +167,4 @@ SPY\×FAMILY 間諜家家酒 CODE： White \[電影\] => 间谍过家家 代号�
 Fate／Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram\[電影\] => 命运／冠位指定 -神圣圆桌领域卡美洛- 前篇 漂泊的银之臂 {[tmdbid=637202;type=movie]}
 銀魂 THE FINAL - 電影 => 银魂：最终篇 {[tmdbid=732203;type=movie]}
 後空翻少年!! - 電影 => 后空翻少年！！ 剧场版 {[tmdbid=952175;type=movie]}
+大雪海的卡那 星之賢者 => 大雪海的卡纳 星之贤者
