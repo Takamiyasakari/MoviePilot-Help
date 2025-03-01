@@ -129,8 +129,8 @@ Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 => 命运／冠
 妖獸都市 1987 => 妖獸都市 1987 {[tmdbid=21453;type=movie]}
 後空翻少年!! => 後空翻少年 {[tmdbid=112601;type=movie]}
 新次元！蠟筆小新電影超能力大決戰~飛吧！手卷壽司~ \[電影\] => 蠟筆小新超能力大決戰 {[tmdbid=1059572;type=movie]}
-Collar\×Malice \-deep cover\- 後篇 \- 電影 => Collar×Malice {[tmdbid=1155647;type=movie]}
-Collar\×Malice \-deep cover\- 前篇 \- 電影 => Collar×Malice {[tmdbid=1020496;type=movie]}
+Collar×Malice -deep cover- 後篇 - 電影 => Collar×Malice {[tmdbid=1155647;type=movie]}
+Collar×Malice -deep cover- 前篇 - 電影 => Collar×Malice {[tmdbid=1020496;type=movie]}
 ZERO-ONE Others 假面騎士滅亡迅雷 => 假面骑士灭亡迅雷 {[tmdbid=818914;type=movie]}
 佐佐木與宮野ー畢業篇 => 佐佐木与宫野：毕业篇 {[tmdbid=998731;type=movie]}
 Demon Slayer -Kimetsu no Yaiba- Mugen Train Movie => 鬼灭之刃 无限列车篇 {[tmdbid=635302;type=movie]}
@@ -149,7 +149,7 @@ Demon Slayer -Kimetsu no Yaiba- Mugen Train Movie => 鬼灭之刃 无限列车�
 對某飛行員的追憶 - 電影 => 对某飞行员的追忆 {[tmdbid=93013;type=movie]}
 我的英雄學院：世界英雄任務 - 電影 => 我的英雄学院：世界英雄任务 {[tmdbid=768744;type=movie]}
 銀魂劇場版 完結篇：永遠的萬事屋 - 電影 => 银魂完结篇：直到永远的万事屋 {[tmdbid=245917;type=movie]}
-Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 \- \- 電影 => 命运／冠位指定 冠位时间神殿所罗门 {[tmdbid=829920;type=movie]}
+Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 - - 電影 => 命运／冠位指定 冠位时间神殿所罗门 {[tmdbid=829920;type=movie]}
 哆啦A夢 新大雄的宇宙開拓史\[電影\] => 哆啦A梦：新·大雄的宇宙开拓史 {[tmdbid=95935;type=movie]}
 哆啦A夢 大雄與綠之巨人傳\[電影\] => 哆啦A梦：大雄与绿巨人传 {[tmdbid=136686;type=movie]}
 超時空甩尾 - 電影 => 红线 {[tmdbid=71883;type=movie]}
@@ -162,7 +162,7 @@ GIVEN 被贈與的未來 劇場版：反面的存在 - 電影 => GIVEN：被赠�
 魔兵驚天錄 噬血宿命 - 電影 => 猎天使魔女：血色命运 {[tmdbid=242546;type=movie]}
 HUMAN LOST 人間失格 - 電影 => 人间失格 {[tmdbid=593240;type=movie]}
 SPY\×FAMILY 間諜家家酒 CODE： White \[電影\] => 间谍过家家 代号：白 {[tmdbid=1062807;type=movie]}
-孤獨搖滾！團結 Band LIVE-恆星\- \- 電影 => 孤独摇滚！纽带乐队LIVE -恒星- {[tmdbid=1152767;type=movie]}
+孤獨搖滾！團結 Band LIVE-恆星- - 電影 => 孤独摇滚！纽带乐队LIVE -恒星- {[tmdbid=1152767;type=movie]}
 世界一初戀～求婚編～ - 電影 => 世界第一初恋：求婚篇 {[tmdbid=658565;type=movie]}
 魔法水果籃 -前奏曲- - 電影 => 水果篮子 -序章- {[tmdbid=896499;type=movie]}
 Fate／Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram\[電影\] => 命运／冠位指定 -神圣圆桌领域卡美洛- 前篇 漂泊的银之臂 {[tmdbid=637202;type=movie]}
