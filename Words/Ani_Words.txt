@@ -2,6 +2,7 @@
 (?i)\bMILKs\b => 奶²
 (?i)\bTOC\b => 贩卖机汉化组
 (?i)\bFROGE\b => FROGWeb番剧补全计划
+(?i)\bUBWEB\b => UBits官组
 
 ### 通用识别词
 ##-\s?(\d{1,4}) => - E\1
