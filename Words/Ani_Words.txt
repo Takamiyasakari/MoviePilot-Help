@@ -8,6 +8,11 @@
 ##-\s?(\d{1,4}) => - E\1
 \[年齡限制版\] => -
 
+
+### 2025-07
+Let.?This.?Grieving.?Soul.?Retire => Let This Grieving Soul Retire S02 && S01 <> 1080p >> EP - 13
+
+
 ### 2025-07
 Dan.?Da.?Dan.?S02 <> 1080p >> EP - 12
 Rascal.?Does.?Not.?Dream.?of.?Santa.?Claus.?S01 => 青春猪头少年不会梦到兔女郎学姐 S02
